@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const SelectForm =styled.select`
+export const SelectForm =styled.form`
   display: flex;
   flex-direction: column;
   margin-bottom: 1em;
